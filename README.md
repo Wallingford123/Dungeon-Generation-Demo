@@ -1,6 +1,7 @@
 # Dungeon Generation Demo
 Completed as part of my final year dissertation at the University of Portsmouth.
 
+Utilises growing tree, delaunay triangulation and minimum spanning tree
 
 Press spacebar to spawn an AI agent that will navigate to where you click.
 
